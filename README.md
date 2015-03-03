@@ -1,3 +1,8 @@
+Lesson 3: DNS, Domain Names, and Apache vhosts
+Note that this lesson is the same lesson as used in the Multisite series.
+
+- Presentation slides: misc/03-domaccess-dnsvhosts.key.zip
+
 This series is about the Domain Access module for Drupal 7. The tutorials in this series are:
 
 01. Introduction to Domain Access for Drupal 7
