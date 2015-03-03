@@ -1,0 +1,18 @@
+<VirtualHost *:80>
+        ServerAdmin webmaster@udrupal.com
+        # Main domain name
+        ServerName udrupal.com
+
+        # Additional domains
+        ServerAlias udrupalalumni.com
+        ServerAlias news.udrupal.com
+
+        # Directory where the site files are
+        DocumentRoot /home/udrupal/www
+        
+        <Directory />
+                Options FollowSymLinks
+                AllowOverride All
+        </Directory>
+
+</VirtualHost>
