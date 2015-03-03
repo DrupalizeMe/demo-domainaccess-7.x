@@ -1,10 +1,16 @@
-This series is about the Domain Access module. The tutorials in this series are:
+This series is about the Domain Access module for Drupal 7. The tutorials in this series are:
 
-01. Overview of Domain Access
-02. DNS, Domain Names, and Apache vhosts
-03. Drupal Node Access System
-04. Configure Apache for Multiple Domains
-05. Install Domain Access
-06. Add and Configure Domains
-07. Domain Access Permissions
-08. Extending Domain Access
+01. Introduction to Domain Access for Drupal 7
+02. Domain Access Overview
+03. DNS, Domain Names, and Apache vhosts
+04. Drupal Node Access System
+05. Configure Apache for Multiple Domains
+06. Install Domain Access
+07. Configure Domain Access
+08. Domain Content and Settings
+09. Domain Access Permissions
+10. Extending Domain Access
+
+Versions used in this series:
+- Drupal 7.34
+- Domain Access 7.x-3.11
