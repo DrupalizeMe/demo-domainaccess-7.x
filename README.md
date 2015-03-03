@@ -1,5 +1,5 @@
 Lesson 2: Domain Access Overview
-- misc/02-domaccess.key.zip
+- Presentation slides: misc/02-domaccess.key.zip
 
 This series is about the Domain Access module for Drupal 7. The tutorials in this series are:
 
