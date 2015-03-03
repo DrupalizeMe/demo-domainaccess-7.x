@@ -1,4 +1,4 @@
-Lesson 5: Configure Apache for Multiple Domains
+##Lesson 5: Configure Apache for Multiple Domains
 Note that this is the same lesson used in the Multisite series.
 
 - Final database dump: data/05-domainaccess.sql.gz
