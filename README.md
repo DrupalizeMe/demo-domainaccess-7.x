@@ -1,3 +1,10 @@
+##Lesson 6: Install Domain Access
+
+- Database: data/06-domainaccess-install.sql.gz
+- Drupal code with Domain Access: docroot
+- Presentation Slides: misc/06-domaccess-install.key.zip
+- Sample settings.php file: misc/06-domainaccess-settings.php
+
 This series is about the Domain Access module for Drupal 7. The tutorials in this series are:
 
 01. Introduction to Domain Access for Drupal 7
