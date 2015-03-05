@@ -1,7 +1,7 @@
-##Lesson 7: Configure Domain Access
+##Lesson 8: Domain Access Content
 
-- Database: data/07-domainaccess-config.sql.gz
-- Presentation Slides: misc/07-domaccess-config.key.zip
+- Database: data/08-domainaccess-content.sql.gz
+- Presentation Slides: misc/08-domaccess-content.key.zip
 - No code changes
 
 This series is about the Domain Access module for Drupal 7. The tutorials in this series are:
@@ -13,9 +13,10 @@ This series is about the Domain Access module for Drupal 7. The tutorials in thi
 05. Configure Apache for Multiple Domains
 06. Install Domain Access
 07. Configure Domain Access
-08. Domain Content and Settings
-09. Domain Access Permissions
-10. Extending Domain Access
+08. Domain Access Content
+09. Domain Settings and Themes
+10. Domain Access Permissions
+11. Extending Domain Access
 
 Versions used in this series:
 - Drupal 7.34
