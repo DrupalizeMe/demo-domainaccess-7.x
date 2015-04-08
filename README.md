@@ -7,9 +7,10 @@ This series is about the Domain Access module for Drupal 7. The tutorials in thi
 05. Configure Apache for Multiple Domains
 06. Install Domain Access
 07. Configure Domain Access
-08. Domain Content and Settings
-09. Domain Access Permissions
-10. Extending Domain Access
+08. Domain Content
+09. Domain Settings and Themes
+10. Domain Access Permissions
+11. Extending Domain Access
 
 Versions used in this series:
 - Drupal 7.34
