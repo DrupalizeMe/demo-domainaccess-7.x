@@ -1,8 +1,7 @@
-##Lesson 9: Domain Access Settings and Themes
+##Lesson 11: Extending Domain Access
 
-- Database: data/09-domainaccess-settings.sql.gz
-- Presentation Slides: misc/09-domaccess-settings.key.zip
-- No code changes
+- Presentation Slides: misc/11-domaccess-extras.key.zip
+- No code or database changes
 
 This series is about the Domain Access module for Drupal 7. The tutorials in this series are:
 
