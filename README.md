@@ -15,3 +15,6 @@ This series is about the Domain Access module for Drupal 7. The tutorials in thi
 Versions used in this series:
 - Drupal 7.34
 - Domain Access 7.x-3.11
+
+
+[![Join the chat at https://gitter.im/DrupalizeMe/demo-domainaccess-7.x](https://badges.gitter.im/DrupalizeMe/demo-domainaccess-7.x.svg)](https://gitter.im/DrupalizeMe/demo-domainaccess-7.x?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
